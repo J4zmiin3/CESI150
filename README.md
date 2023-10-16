@@ -1,2 +1,2 @@
 # CESI150
-Class Project 
+Class Projects for Programing with Objects 
